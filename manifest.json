@@ -1,0 +1,28 @@
+{
+    "widget":{
+            "name": "ImportAMO(update)",
+            "description": "Импорт данных из URL(update)",
+            "short_description": "Импорт данных из URL(update)",
+            "code": "importwidgetupdate",
+            "secret_key": "886e7c3bd064991b9579595550e83a4c92d8446d8818dde8d41f348eddd78877",
+            "version": "1.4.15",
+            "interface_version": 2,
+            "init_once": false,
+            "locale":[
+                    "ru"
+                    ],
+            "installation": true
+            },
+    "locations":[
+            "lcard-1",							
+            "settings"
+            ],
+    "settings":{   
+        "tst3":{
+            "name": "settings.tst3",
+            "type": "text", 
+            "required": false
+        }
+    }
+
+}
